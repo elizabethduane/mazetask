@@ -1,0 +1,9 @@
+l: nome
+t: textline
+o: require
+q: Digite seu nome completo:
+- 
+
+l: praticaA
+t: experiment
+- maze_task_A
