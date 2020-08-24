@@ -1,4 +1,4 @@
-This project was made using the PsyToolkit on the web (www.psytoolkit.org/).
+This project was made using the PsyToolkit on the web (www.psytoolkit.org/) .
 
 > **Note:**  This instructions will explain only the basic steps to import and copy the files to your Psytoolkit area. If you need more instructions to modifiy or publish the experiment/survey, you can find lots of tutoriais on the web site.
 
@@ -17,7 +17,14 @@ This project was made using the PsyToolkit on the web (www.psytoolkit.org/).
 3.  Erase the content new file and copy the code of one .txt file downloaded.
 4.  Do it for each survey file.
 
+### Further reading / How to cite
+**By using this script, you must cite these articles:**
 
+>OLIVEIRA, C.; COSTA, E.; CANABRAVA, K.; BARROS, N. Examining the use of an online version of the maze task as a pedagogical tool for second language learning. Veredas, v. 24, n. 1,2020.
 
+- PsyToolkit articles:
 
+>Stoet, G. (2010). PsyToolkit - A software package for programming psychological experiments using Linux. Behavior Research Methods, 42(4), 1096-1104.
+
+>Stoet, G. (2017). PsyToolkit: A novel web-based method for running online questionnaires and reaction-time experiments. Teaching of Psychology, 44(1), 24-31.
 
