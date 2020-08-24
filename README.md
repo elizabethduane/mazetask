@@ -20,7 +20,7 @@ This project was made using the PsyToolkit on the web (www.psytoolkit.org/) .
 ### Further reading / How to cite
 **By using this script, you must cite these articles:**
 
->OLIVEIRA, C.; COSTA, E.; CANABRAVA, K.; BARROS, N. Examining the use of an online version of the maze task as a pedagogical tool for second language learning. Veredas, v. 24, n. 1,2020.
+>OLIVEIRA, C.; COSTA, E.; CANABRAVA, K.; BARROS, N. Examining the use of an online version of the maze task as a pedagogical tool for second language learning. Veredas, v. 24, n. 1, 2020.
 
 - PsyToolkit articles:
 
