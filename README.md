@@ -14,7 +14,7 @@ This project was made using the PsyToolkit on the web (www.psytoolkit.org/) .
 ### Creating the surveys
 1.  Choose the option **"Create a new Survey"**
 2.  Setup a completely new survey
-3.  Erase the content new file and copy the code of one .txt file downloaded.
+3.  Erase the new file content and copy the code of one ".txt" file downloaded.
 4.  Do it for each survey file.
 
 ### Further reading / How to cite
