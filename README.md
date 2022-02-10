@@ -1,6 +1,6 @@
 This project was made using the PsyToolkit on the web (www.psytoolkit.org/) .
 
-> **Note:**  This instructions will explain only the basic steps to import and copy the files to your Psytoolkit area. If you need more instructions to modifiy or publish the experiment/survey, you can find lots of tutoriais on the web site.
+> **Note:**  This instructions will explain only the basic steps to import and copy the files to your Psytoolkit area. If you need more instructions to modifiy or publish the experiment/survey, you can find lots of tutoriais on the Psytoolkit website.
 
 ### Getting the files
 1. Download the experiments and surveys files from this project.
